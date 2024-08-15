@@ -1,0 +1,14 @@
+name: java-language
+displayName: Java language
+author: Ayam TV Trenggalek
+description:
+
+  '''
+
+Java fies the Indonesia language :D
+
+ '''
+
+version: 1
+minGameVersion: 136
+hidden: true
